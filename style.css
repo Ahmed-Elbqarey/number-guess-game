@@ -68,3 +68,8 @@ p{
   font-size: 35px;
   color: red;
 }
+@media (max-width:610px){
+  body{
+  flex-direction: column-reverse;
+  }
+}
